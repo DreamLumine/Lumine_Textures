@@ -1,1 +1,1 @@
-一个贴图的备份库
+Texture Modification of a certain anime game.
